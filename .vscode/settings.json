@@ -1,0 +1,8 @@
+{
+    "files.exclude": {
+        "Simple_Linear_Regression.py": true
+    },
+    "[python]": {
+        "editor.quickSuggestions": false
+    }
+}
